@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Dataset folders
+train/
+test/
+dataset/
+
+# Model files
+*.pth
+models/
+
+# Output files
+outputs/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

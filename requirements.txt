@@ -1,7 +1,9 @@
+torch
+torchvision
 opencv-python
-matplotlib
 numpy
-scikit-learn
 pandas
-tqdm
+matplotlib
+scikit-learn
 Pillow
+tqdm
